@@ -33,6 +33,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/meda-sai-rahul/)  
 - 🌐 [Portfolio/Website](https://yourwebsite.com)  
 - 📬 Email: sairahul2721@gmail.com
+![image](https://github.com/user-attachments/assets/a9e3c5ab-e9b2-46ad-b1ac-aecdf47b8e53)
 
 ---
 
