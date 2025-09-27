@@ -9,7 +9,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing **B.Tech in Artificial Intelligence**
+- 🎓 I'm currently pursuing **Master of Science in Applied Machine Learning**
+- 🧑‍🎓 Bachelors Degree in **CS with Artificial Intelligence**
 - 🤖 Interested in Machine Learning, Deep Learning & Natural Language Processing
 - 🧠 Exploring **LLMs**, GenAI & Agentic AI
 - 🌱 Constantly learning and building real-world AI projects
