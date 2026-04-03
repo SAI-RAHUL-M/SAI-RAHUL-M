@@ -31,8 +31,8 @@
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/sai-rahul-meda)  
-- 🌐 [Portfolio/Website](https://sairahul-portfolio.vercel.app)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sai-rahul-meda)  
+- 🌐 [Portfolio/Website](https://sairahulm-portfolio.vercel.app)  
 - 📬 Email: sairahul2721@gmail.com
 
 ---
