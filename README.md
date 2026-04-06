@@ -33,12 +33,14 @@
 
 ## 📫 Let's Connect
 <p align="center">
-  <a href="mailto:sairahul2721@gmail.com">
+  <a href="mailto:sairahul2721@gmail.com"> <p>EMAIL</p>
     <img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
   <a href="https://sairahulm-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/-My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  
   <a href="https://www.linkedin.com/in/sai-rahul-meda">
     <img src="https://img.shields.io/badge/-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
