@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sai Rahul</h1>
 <h3 align="center">A Passionate AI Student & Aspiring Machine Learning Engineer</h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sai-rahul-meda&label=Profile%20views&color=0e75b6&style=flat" alt="sai rahul meda" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Masters+Student+in+Machine+Learning;Machine+Learning+Enthusiast;Building+Cool+AI+Projects+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
