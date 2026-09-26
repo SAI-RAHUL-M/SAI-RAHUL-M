@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://sairahulm-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Agentic+AI+Engineer+%F0%9F%A4%96;Building+production+LLM+agents+on+Claude;Evals%2C+traces+%26+guardrails+%E2%80%94+measured%2C+not+assumed;MS+Applied+Machine+Learning+%40+UMD+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Agentic+AI+Engineer+%F0%9F%A4%96;MS+Applied+Machine+Learning+%40+UMD+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 </p>
 
