@@ -35,7 +35,7 @@ I build agentic AI systems and then keep them running, which turns out to be the
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[TriageAI](https://github.com/SAI-RAHUL-M/Multi-Agent-Complaint-System)** 🏆 | Supervisor-led system of seven specialist agents for financial complaints, with OCR evidence intake, contradiction checks, pgvector retrieval, and a rubric-based LLM judge with a human review queue. *Team project · 1st place, GDG Gemini Hackathon (AI Studio Track)* | LangGraph · FastAPI · pgvector · OpenTelemetry |
+| **[TriageAI](https://github.com/SAI-RAHUL-M/Multi-Agent-Complaint-System)** 🏆 | Supervisor-led system of seven specialist agents for financial complaints, with OCR evidence intake, contradiction checks, pgvector retrieval, and a rubric-based evaluation with a human review queue. *Team project · 1st place, GDG Gemini Hackathon (AI Studio Track)* | LangGraph · FastAPI · pgvector · OpenTelemetry |
 | **[Vital AI](https://github.com/SAI-RAHUL-M/vital-care-ai)** | Skill-based healthcare navigation assistant with safety scans before and after every LLM call and parallel skill dispatch. *Team project · built with Claude Code* | FastAPI · Agent Skills · Guardrails |
 | **[Domain-Specific RAG](https://github.com/SAI-RAHUL-M/Retrieval-Augmented-Generation-based-Knowledge-Extraction-for-Alloy-Design)** | RAG over 60+ materials-science papers, with MatSciBERT benchmarked against standard BERT on a fixed test set before choosing it | LLaMA 3.1 · LangChain · MatSciBERT |
 | **[Gemma Inference Benchmarking](https://github.com/SAI-RAHUL-M/gemma-study)** | CLI suite comparing Gemma at full precision vs 4-bit NF4, plus ViT, across CPU and GPU, published as a Docker image. *Team project* | PyTorch · Transformers · bitsandbytes · Docker |
